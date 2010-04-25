@@ -1,5 +1,5 @@
 === Extended Profile ===
-Contributors: singpolyma, steveivy, wnorris
+Contributors: singpolyma, steveivy, willnorris
 Tags: profile, microformats, hcard
 equires at least: 2.6
 Tested up to: 2.7
